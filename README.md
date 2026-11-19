@@ -1,5 +1,7 @@
 # BrightSmile Dental — demo business website
 
+**Live demo:** https://brightsmile-dental-demo-omega.vercel.app
+
 A sample business website (made-up clinic) built with **React 18 + Vite + Tailwind CSS 4**.
 Used as portfolio work for the Fiverr Gig "I will build a modern responsive business website using React".
 
